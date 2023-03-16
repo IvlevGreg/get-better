@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './podo.png';
 import './App.css';
 
 function App() {
